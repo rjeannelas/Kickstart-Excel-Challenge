@@ -6,12 +6,6 @@ Crowdfunding platforms like Kickstarter and Indiegogo have been growing in succe
 
 Getting funded on a crowdfunding website requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 1,000 generated sample projects in order to uncover any hidden trends.
 
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
-
-2. Store your Excel workbooks here in this new space, and create a sharable link for submission.
-
 ## Instructions
 
 ![Crowdfunding Table](Images/FullTable.PNG)
@@ -101,8 +95,6 @@ Using the Excel [workbook](CrowdfundingBook.xlsx) provided, modify and analyze t
 
 Most people would use the number of campaign backers to assess the success of a crowdfunding campaign. Creating a summary statistics table is one of the most efficient ways that data scientists can characterize quantitative metrics, such as the number of campaign backers.
 
-For those of you looking for an additional challenge, evaluate the number of backers of successful and unsuccessful campaigns by creating **your own** summary statistics table.
-
 * Create a new worksheet in your workbook, and create one column for the number of backers of successful campaigns and one column for unsuccessful campaigns.
 
   ![Images/backers01.png](Images/backers01.png)
@@ -125,24 +117,11 @@ For those of you looking for an additional challenge, evaluate the number of bac
 
 * Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive, and submit the link to <https://bootcampspot.com/>.
-
 ## Rubric
 
 [Unit 1 Rubric - Excel Homework: Charting Crowdfunding](https://docs.google.com/document/d/1gIVky_5CZi-b4w07RLBYZyXgbbhMRemvpcT1V6EGkvw/edit?usp=sharing)
 
 ## Employer-Ready Criteria
-
-Students who are marked as employer ready gain access to our employer referral program, additional workshops, and other resources. Work with your Career Director to become employer ready. At a minimum, you must have:
-
-- A clear, concise, and compelling resume. Submit via your learning platform for review.
-- A polished GitHub profile:
-  - 3 to 6 pinned repositories ([instructions here](https://docs.github.com/en/enterprise/2.13/user/articles/pinning-items-to-your-profile))
-  - Professional titles, i.e. not "Homework #1"
-  - Thorough README.md files for each repository
-  - Clean code
 
 ## References
 
